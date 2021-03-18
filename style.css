@@ -1,1 +1,46 @@
+/*my header is padded with black and position in its natural left state*/
+header {
+font-family:fantasy;
+color: #1b93cae5;
+background-color: #fafad2;
+padding-top: 40px;
+padding-bottom: 40px;
+font-size: 30px;
+}
 
+h2 {
+  font-family: fantasy;
+  color: #a86363;
+text-align: center;
+font-weight: 100;
+text-decoration: underline #b879b4;
+font-size: 30px;
+}
+/*colord the line breaks in my web page blue*/
+hr {
+  height: 30px;
+  background-color: #fa8072;
+}
+
+h3 {
+  text-decoration: underline black;
+}
+
+main {
+  color: rgb(35, 148, 148);
+  background-color: #f0e68c;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+footer {
+  text-align: center;
+  background-color: #f3eea7;
+  color: #20b2aa;
+  font-size: 20px;
+  font: bold;
+}
+/*Assigned color properties to each action the user goes through*/
+a:link    { color: red;  }
+a:visited { color: yellow;   }
+a:hover   { color: blue; }
+a:active  { color: black;  }
