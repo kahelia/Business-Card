@@ -33,13 +33,7 @@ main {
   color: rgb(40, 77, 77);
   background-color: #fffbd5;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-ol {
-  text-align: center;
-}
-ul {
-  text-align: center;
+  list-style-position: inside;
 }
 
 footer {
@@ -49,6 +43,7 @@ footer {
   color: #2b4d4b;
   font-size: 20px;
   font: bold;
+  list-style-position: inside;
 }
 /*Assigned color properties to each action the user goes through*/
 a:link    { color: red;  }
