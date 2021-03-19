@@ -35,6 +35,13 @@ main {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+ol {
+  align: center;
+}
+ul {
+  align: center;
+}
+
 footer {
   margin: 3%;
   text-align: center;
