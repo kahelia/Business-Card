@@ -16,10 +16,19 @@ font-weight: 100;
 text-decoration: underline #130212;
 font-size: 30px;
 }
+
 /*colord the line breaks in my web page blue*/
+
 hr {
   height: 30px;
   background: #000000;
+}
+
+div { 
+  text-align: center; 
+}
+ul {
+  display: inline-block; text-align: left; 
 }
 
 h3 {
