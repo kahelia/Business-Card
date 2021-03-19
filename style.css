@@ -1,11 +1,11 @@
 /*my header is padded with black and position in its natural left state*/
 header {
 font-family:fantasy;
-color: #1b93cae5;
+color: #1f4658e5;
 background-color: #fafad2;
 padding-top: 40px;
 padding-bottom: 40px;
-font-size: 30px;
+font-size: 20px;
 }
 
 h2 {
@@ -13,13 +13,13 @@ h2 {
   color: #a86363;
 text-align: center;
 font-weight: 100;
-text-decoration: underline #b879b4;
+text-decoration: underline #130212;
 font-size: 30px;
 }
 /*colord the line breaks in my web page blue*/
 hr {
   height: 30px;
-  background-color: #fa8072;
+  background: #000000;
 }
 
 h3 {
@@ -27,15 +27,19 @@ h3 {
 }
 
 main {
-  color: rgb(35, 148, 148);
-  background-color: #f0e68c;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-indent: 10px;
+  margin: 3%;
+  text-align: center;
+  color: rgb(40, 77, 77);
+  background-color: #fffbd5;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 footer {
+  margin: 3%;
   text-align: center;
-  background-color: #f3eea7;
-  color: #20b2aa;
+  background-color: #f8f6da;
+  color: #2b4d4b;
   font-size: 20px;
   font: bold;
 }
