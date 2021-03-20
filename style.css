@@ -37,6 +37,24 @@ main {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+ol {
+  text-align: start;
+display: flex;
+flex-direction: column;
+border: 1px solid;
+width: fit-content;
+margin: 0 auto;
+}
+
+ul {
+  text-align: start;
+display: flex;
+flex-direction: column;
+border: 1px solid;
+width: fit-content;
+margin: 0 auto;
+}
+
 footer {
   margin: 3%;
   text-align: center;
@@ -44,11 +62,6 @@ footer {
   color: #2b4d4b;
   font-size: 20px;
   font: bold;
-  text-align: start;
-display: flex;
-flex-direction: column;
-border: 1px solid;
-width: fit-content;
 }
 /*Assigned color properties to each action the user goes through*/
 a:link    { color: red;  }
